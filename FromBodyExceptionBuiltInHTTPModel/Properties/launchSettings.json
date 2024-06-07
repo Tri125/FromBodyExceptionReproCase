@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FromBodyExceptionBuiltInHTTPModel": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7021"
+    }
+  }
+}
